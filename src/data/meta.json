@@ -1,11 +1,11 @@
 {
     "title": "Emergency Site",
-    "url": "https://emergency-site.dev",
+    "url": "http://emergency.patricks.tw",
     "description": "A boilerplate for emergency information websites.",
     "lang": "en",
     "dateFormat": "dd LLLL yyyy, T",
     "contact": {
-        "email": "information@emergency.org",
-        "telephone": "+01 234 567 890"
+        "email": "jeremy@patricks.tw",
+        "telephone": "+886"
     }
 }
